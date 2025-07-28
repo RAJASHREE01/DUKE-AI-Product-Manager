@@ -14,3 +14,5 @@ Using real-world sensor data (Ambient Temperature, Exhaust Vacuum, Ambient Press
 Highlighted the trade-off between model performance and interpretability, recommending Random Forest or XGBoost + SHAP for business contexts needing transparency.
 
 This hands-on project helped me refresh my ML basics along with, emphasizing how to frame problems, evaluate model utility, and align solutions with stakeholder needs.
+
+Along with this, Customer Churn Prediction for an OTT platform is documented with its privacy considerations as part of managing ML projects
